@@ -1,0 +1,99 @@
+#title{
+  background-color: #85586F;
+}
+h1
+{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color:white;
+}
+h2{
+  font-size: 2.5rem;
+  font-family: "Dancing Script", cursive;
+}
+body{
+  font-family:"Montserrat", sans-serif;;
+}
+h3{
+  font-weight: bold;
+  text-align: center;
+
+
+
+}
+p{
+  text-align: center;
+  font-family: sans-serif;
+  color: #81689D;
+
+}
+.container-fluid{
+  padding:7% 15%;
+}
+.navbar-brand{
+  font-size: 3rem;
+  font-weight: bold;
+}
+.nav-link{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.button{
+  padding: 5% 3% 2% 3%;
+  margin-left: 5%;
+  margin-top: 5%;
+
+}
+.title-image{
+  width: 70%;
+  transform: rotate(40deg);
+}
+.icon{
+  color:green;
+  text-align: center;
+}
+.icon:hover{
+  color:#63E6BE;
+}
+#testimonials{
+  background-color: #81689D;
+  text-align: center;
+
+
+
+
+  }
+
+
+
+
+.title-img{
+  width: 15%;
+  border-radius: 50%;
+  margin-right: 25px;
+}
+#press{
+  background-color:#83C0C1;
+  text-align: center;
+  padding-bottom: 5%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 20px;
+}
+#pricing{
+  text-align: center;
+  padding: 5% 5% 5%;
+}
+.card{
+  padding: 2%;
+  font-family: fantasy;
+}
+#cta{
+  text-align: center;
+}
+#features{
+  padding: 10%;
+}
